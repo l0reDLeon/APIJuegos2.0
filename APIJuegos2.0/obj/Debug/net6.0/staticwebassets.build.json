@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "6I1dGaMxycG1zt31JdleY3wACWLp+2JgW5teOvtDldE=",
+  "Source": "APIJuegos2.0",
+  "BasePath": "_content/APIJuegos2.0",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIJuegos2.0\\wwwroot",
+      "Source": "APIJuegos2.0",
+      "ContentRoot": "C:\\Users\\anton\\source\\repos\\APIJuegos2.0\\APIJuegos2.0\\wwwroot\\",
+      "BasePath": "_content/APIJuegos2.0",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\anton\\source\\repos\\APIJuegos2.0\\APIJuegos2.0\\wwwroot\\GET.txt",
+      "SourceId": "APIJuegos2.0",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anton\\source\\repos\\APIJuegos2.0\\APIJuegos2.0\\wwwroot\\",
+      "BasePath": "_content/APIJuegos2.0",
+      "RelativePath": "GET.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\GET.txt"
+    },
+    {
+      "Identity": "C:\\Users\\anton\\source\\repos\\APIJuegos2.0\\APIJuegos2.0\\wwwroot\\POST.txt",
+      "SourceId": "APIJuegos2.0",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anton\\source\\repos\\APIJuegos2.0\\APIJuegos2.0\\wwwroot\\",
+      "BasePath": "_content/APIJuegos2.0",
+      "RelativePath": "POST.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\POST.txt"
+    }
+  ]
+}

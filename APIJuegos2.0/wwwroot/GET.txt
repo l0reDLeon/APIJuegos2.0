@@ -1,0 +1,11 @@
+Consultando coincidencias con: 'Ejemplo' a las 08:31:03 del día 27/03/2022
+	Ejemplo2
+	Ejemplo3
+	Ejemplo4
+	Ejemplo10
+Consultando coincidencias con: 'Ejemplo' a las 09:41:14 del día 27/03/2022
+	Ejemplo2
+	Ejemplo3
+	Ejemplo4
+	Ejemplo10
+	EjemploParaEvidencia
